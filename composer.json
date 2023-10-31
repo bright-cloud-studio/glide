@@ -1,0 +1,23 @@
+{
+    "name": "bright-cloud-studio/glide",
+    "description": "Creates a custom Contao component for Glidejs",
+    "keywords": [
+    ],
+    "type": "contao-component",
+    "homepage": "https://github.com/bright-cloud-studio/glide",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Bright Cloud Studio",
+            "email": "mark@brightcloudstudio.com",
+            "homepage": "https://brightcloudstudio.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bright-cloud-studio/glide/issues"
+    },
+    "require": {
+        "contao-components/installer": "~1.0"
+    }
+}
